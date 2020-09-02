@@ -1,0 +1,14 @@
+# CESM
+cp -r ./member_{001,010,011,014,017,035,103} /glade/p/datashare/gloege/SOCAT_plus_float/CESM
+
+
+# CanESM2
+cp -r ./member_{r1r4,r1r8,r2r3,r3r8,r4r10,r4r3,r5r5} /glade/p/datashare/gloege/SOCAT_plus_float/GFDL
+
+
+# GFDL
+cp -r ./member_{02,03,08,15,19,24,27} /glade/p/datashare/gloege/SOCAT_plus_float/GFDL
+
+
+# MPI
+cp -r ./member_{018,021,027,028,039,041,064} /glade/p/datashare/gloege/SOCAT_plus_float/MPI
